@@ -1,7 +1,7 @@
 {
 	"name": "@robindevouge/timer",
 	"version": "1.0.0",
-	"description": "Basic standalone timer class",
+	"description": "Standalone timer class",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
@@ -10,12 +10,12 @@
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
 	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/@robindevouge"
+		"registry": "https://npm.pkg.github.com/"
 	},
 	"scripts": {
 		"build": "tsc"
 	},
 	"devDependencies": {
-		"typescript": "^5.2.2"
+		"typescript": "^5.8.2"
 	}
 }

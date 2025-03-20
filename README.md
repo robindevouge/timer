@@ -1,10 +1,6 @@
 # @robindevouge/timer
 
-![alt text](https://img.shields.io/badge/version-1.0.0-informational)
-
 ## About
-
-_Package created while I was working at [Hilarious](https://hilarious.be) then updated and expanded upon._
 
 A standalone timer, able to count up, down or indefinitely and triger callbacks at each tick and/or at the end.
 
@@ -12,7 +8,7 @@ Since it uses `setInterval`, it is not accurate and should not be used for criti
 
 Maintainer: Robin Devouge (hello@robindevouge.be)
 
-Repository: https://github.com/robindevouge/timer
+Repository: https://github.com/robindevouge/timer.git
 
 _Please do not request for additional features, this package was developed to suit my needs during projects (that is why this package is scoped instead of public). If you wish to customize it you are free to do so by respecting the attached license._
 
